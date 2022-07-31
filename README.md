@@ -4,4 +4,4 @@
 ## Results
 ### Principal Component Analysus was used to speed up the efficency of the machine learning algorithyms in order to reduce the number of imput features to a more manageable size to reduce overfitting.
 ## Summary
-###
+### After the K-Means analysis, the optimal amount of clusters for this data set seem to be 4 by looking at the elbow graph above in the results section. However, there is an outlier of one cluster with exactly 1 coin: BitTorrent. This warrents further investigation to see why the BitTorrent coin is so unique in the world of crypto and what seperates it from more popular and well-known cryptos like Bitcoin and Ethereum. 
