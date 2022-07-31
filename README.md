@@ -5,3 +5,5 @@
 ###
 ## Summary
 ### After the K-Means analysis, the optimal amount of clusters for this data set seem to be 4 by looking at the elbow graph above in the results section. However, there is an outlier of one cluster with exactly 1 coin: BitTorrent. This warrents further investigation to see why the BitTorrent coin is so unique in the world of crypto and what seperates it from more popular and well-known cryptos like Bitcoin and Ethereum. 
+
+Another noteable coin that was not an outlier for clustering purposes is TurtleCoin in the Class 0 cluster. According to its team, Turtlecoin is “perhaps the best way to introduce your kids to a Proof-of-Work cryptocurrency ”, a hybrid of a "joke" coin like dogecoin and an educational tool used to educated the public on cryptocurrency. 
