@@ -3,7 +3,7 @@
 ### The purpose of this exercise was to use unsupervised machine learning to interpret a data set of various cryptocurrencies trading on the market to see what clusters would make sense to offer as a packaged investment for potential clients. Unsupervised machine learning was used since there is not a known output for what the various data clusters might look like using K-Means. Principal Component Analysis was used to speed up the efficiency of the machine learning algorithms in order to reduce the number of input features to a more manageable size to reduce over fitting. The scikit-learn and hvplot libraries were used for this exercise.
 ## Results
 ![kmeans.png](/resources/kmeans.png)
-### After the K-Means analysis, looking at the elbow curve produced it seems clear that at 4 clusters most of the data set is utilized before diminishing returns increase significantly, so 4 clusters seem to be the optimal number for this analysis
+### After the K-Means analysis, looking at the elbow curve produced it seems clear that at 4 clusters most of the data set is utilized before diminishing returns for variation increase significantly, so 4 clusters seem to be the optimal number for this analysis
 ![clusters.png](/resources/clusters.png)
 ### The 4 clusters are visualized here in a 3d graph to show which specific cryptocurrencies are grouped together 
 ![plot.png](/resources/plot.png)
